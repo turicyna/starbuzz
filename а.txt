@@ -1,0 +1,19 @@
+1)Горячо или нет?
+hot.html
+<a href= "hot.html"> Горячо или нет? </a>
+
+2)Вкусная конфета
+candy.html
+<a href="candy.html"> Вкусная конфета </a>
+
+3)Резюме
+cv.html
+<a href="cv.html"> Резюме </a>
+
+4)Посмотри на мою Мини
+mini-cooper.html
+<a href="mini-cooper.html"> Посмотри на мою Мини </a>
+
+5)Давайте поиграем
+millionaire.html
+<a href="millionaire.html"> Давайте поиграем</a>
